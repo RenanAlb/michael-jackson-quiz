@@ -34,7 +34,7 @@ function hoverElements() {
   byElement.addEventListener('mouseenter', () => {
     byElement.innerHTML = `
       <p class="school">Escola - ETEC Eudécio Luiz Vicente - Adamantina</p>
-      <p class="teacher">Aline Borro - Professora de Inglês</p>
+      <p class="teacher">English teacher - Aline Borro</p>
       <p class="students">
         Estudantes - Renan Albuquerque, Otávio Fernando, Henrique dos Santos Cardoso, João Pedro Passarini e João Vitor Gavazzi Veiga Amaro
       </p>
@@ -46,7 +46,7 @@ function hoverElements() {
   byElement.addEventListener('mouseleave', () => {
     byElement.innerHTML = `
       <p class="school">School - ETEC Eudécio Luiz Vicente - Adamantina</p>
-      <p class="teacher">Aline Borro - English teacher</p>
+      <p class="teacher">English teacher - Aline Borro</p>
       <p class="students">
         Students - Renan Albuquerque, Otávio Fernando, Henrique dos Santos Cardoso, João Pedro Passarini and João Vitor Gavazzi Veiga Amaro
       </p>
