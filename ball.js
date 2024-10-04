@@ -36,8 +36,7 @@ function hoverElements() {
       <p class="school">Escola - ETEC Eudécio Luiz Vicente - Adamantina</p>
       <p class="teacher">Aline Borro - Professora de Inglês</p>
       <p class="students">
-        Estudantes - Renan Albuquerque, Otávio Fernanado, Henrique Cardoso dos
-        Santos, João Pedro Passarini e João Vitor Gavazzi Veiga Amaro
+        Estudantes - Renan Albuquerque, Otávio Fernanado, Henrique dos Santos Cardoso, João Pedro Passarini e João Vitor Gavazzi Veiga Amaro
       </p>
       <p class="code">Código de Renan Albuquerque</p>
     `;
@@ -49,8 +48,7 @@ function hoverElements() {
       <p class="school">School - ETEC Eudécio Luiz Vicente - Adamantina</p>
       <p class="teacher">Aline Borro - English teacher</p>
       <p class="students">
-        Students - Renan Albuquerque, Otávio Fernanado, Henrique Cardoso dos
-        Santos, João Pedro Passarini and João Vitor Gavazzi Veiga Amaro
+        Students - Renan Albuquerque, Otávio Fernanado, Henrique dos Santos Cardoso, João Pedro Passarini and João Vitor Gavazzi Veiga Amaro
       </p>
       <p class="code">Code by Renan Albuquerque</p>
     `;
