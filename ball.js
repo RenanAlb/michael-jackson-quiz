@@ -10,12 +10,12 @@ const speed = 0.2;
 
 function hoverElements() {
   textAbout.addEventListener('mouseenter', () => {
-    textAbout.innerText = 'Descubra se você conhece sobre o Maior Cantor Pop da história neste Quiz! Teste agora!';
+    textAbout.innerText = 'Descubra se você conhece sobre o maior cantor Pop da história neste Quiz! Teste agora!';
     mouse.style.width = '300px';
     mouse.style.height = '300px';
   });
   textAbout.addEventListener('mouseleave', () => {
-    textAbout.innerText = 'Discovery if you know about the Biggest Singer Pop of history in this Quiz! Test now!';
+    textAbout.innerText = 'Find out if know about the biggest pop singer in history with this quiz!';
     mouse.style.width = '160px';
     mouse.style.height = '160px';
   });
