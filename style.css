@@ -315,6 +315,12 @@ body .by .school, .teacher, .students, .code {
   body .mouse {
     display: none;
   }
+  body .content-quiz > p {
+    text-align: center;
+  }
+  body .content-quiz > h1 {
+    text-align: center;
+  }
   body .text-about {
     font-size: 0.7em;
   }
