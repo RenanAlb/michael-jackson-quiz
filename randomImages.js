@@ -8,7 +8,6 @@ const images = [
 ];
 
 let cont = 0;
-let time = 4000;
 function changeImage() {
   cont = cont % images.length;
   painelQuiz.style.backgroundImage = `url(${images[cont]})`;

@@ -275,9 +275,9 @@ body .mouse {
   }
   body .text-about {
     bottom: auto;
-    top: 170px;
-    font-size: 0.70em;
-    width: 130px;
+    top: 70%;
+    font-size: 0.80em;
+    width: 200px;
   }
   body .start-quiz {
     width: 110px;

@@ -11,7 +11,6 @@ button.addEventListener('click', () => {
   h1Michael.style.display = 'none';
   button.style.display = 'none';
   textAbout.style.display = 'none';
-  time = 0;
 
   animationLoad();
 });
@@ -184,7 +183,6 @@ function renderQuestions() {
       respostasErradas.splice(0, respostasErradas.length);
       respostasCertas.splice(0, respostasCertas.length);
       index = 0;
-      time = 1000;
     });
   }
 };
