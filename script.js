@@ -11,6 +11,7 @@ button.addEventListener('click', () => {
   h1Michael.style.display = 'none';
   button.style.display = 'none';
   textAbout.style.display = 'none';
+  byElement.style.display = 'none';
 
   animationLoad();
 });
@@ -180,6 +181,7 @@ function renderQuestions() {
       h1Michael.style.display = 'block';
       button.style.display = 'block';
       textAbout.style.display = 'block';
+      byElement.style.display = 'block';
       respostasErradas.splice(0, respostasErradas.length);
       respostasCertas.splice(0, respostasCertas.length);
       index = 0;
